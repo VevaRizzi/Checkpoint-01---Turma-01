@@ -1,0 +1,26 @@
+header {
+    background-color: black;
+    color: white;
+    padding: 190px 30px 40px 30px;
+    border: 10px rgb(241, 169, 12) double;
+    height: 500px;
+    margin: 20px;
+    border-radius: 50px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Parque_Estadual_da_Cantareira_-_N%C3%BAcleo_da_Pedra_Grande.JPG/1024px-Parque_Estadual_da_Cantareira_-_N%C3%BAcleo_da_Pedra_Grande.JPG);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: ;
+}
+
+h1, h2 {
+    background-color: teal;
+    padding: 20px 30px ;
+    text-align: center;
+}
+
+button {
+    border-radius: 50px;
+    background-color:rgb(241, 169, 12);
+    padding: 10px 30px;
+    border: black dotted;
+}
