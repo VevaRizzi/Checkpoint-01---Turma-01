@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
 header {
     background-color: black;
     color: white;
@@ -9,13 +10,15 @@ header {
     background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Parque_Estadual_da_Cantareira_-_N%C3%BAcleo_da_Pedra_Grande.JPG/1024px-Parque_Estadual_da_Cantareira_-_N%C3%BAcleo_da_Pedra_Grande.JPG);
     background-repeat: no-repeat;
     background-size: 100%;
-    font-family: ;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Rubik', sans-serif;
 }
 
 h1, h2 {
     background-color: teal;
     padding: 20px 30px ;
     text-align: center;
+    font-family: 'Anton', sans-serif;
 }
 
 button {
@@ -23,4 +26,8 @@ button {
     background-color:rgb(241, 169, 12);
     padding: 10px 30px;
     border: black dotted;
+}
+
+.p {
+    font-family: 'Rubik', sans-serif;
 }
